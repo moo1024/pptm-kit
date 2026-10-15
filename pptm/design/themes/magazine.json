@@ -1,0 +1,26 @@
+{
+  "_grammar": "magazine — 인쇄 잡지 지면. 웜페이퍼 캔버스 + 세리프 헤드라인/드롭캡 + 2단 본문 칼럼. 상단 마스트헤드 룰, 하단 페이지 번호 룰로 지면을 감싼다. 악센트는 풀쿼트 세리프의 진한 레드 한 곳. 카드·그림자 없음 — 룰(rule)과 칼럼 간격만으로 지면을 짠다.",
+  "bg": "FBF8F2",
+  "ink": "1C1B19",
+  "accent": "9A2B1F",
+  "on_accent": "FBF8F2",
+  "card": "F3EEE4",
+  "card2": "EAE3D5",
+  "gray": "6B6660",
+  "hair": "D8D0C0",
+  "arrow": "1C1B19",
+  "highlight": "EDE0DC",
+  "body_ink": "2A2724",
+  "dark_bg": "1C1B19",
+  "dark_fg": "FBF8F2",
+  "dark_sub": "9A928A",
+  "fonts": {
+    "display_b": ["KoPubWorldBatang Bold", false],
+    "display_sb": ["KoPubWorldBatang Medium", false],
+    "body": ["Pretendard", false],
+    "body_sb": ["Pretendard SemiBold", false],
+    "body_b": ["Pretendard", true],
+    "serif": ["KoPubWorldBatang Bold", false]
+  },
+  "glow": {"core": [154, 43, 31], "deep": [60, 15, 10], "base": [28, 27, 25]}
+}

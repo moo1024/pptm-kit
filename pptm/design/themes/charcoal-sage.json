@@ -1,0 +1,29 @@
+{
+  "bg": "1E2220",
+  "ink": "F2F1EC",
+  "accent": "8FAE87",
+  "on_accent": "16241A",
+  "card": "2A2F2C",
+  "card2": "343A36",
+  "gray": "9AA39C",
+  "hair": "3A413C",
+  "arrow": "5A6459",
+  "highlight": "2C3A2A",
+  "body_ink": "CBD1C8",
+  "dark_bg": "1E2220",
+  "dark_fg": "F2F1EC",
+  "dark_sub": "9AA39C",
+  "dark_card": "2A2F2C",
+  "dark_card2": "343A36",
+  "dark_hair": "3A413C",
+  "fonts": {
+    "display_b": ["Paperlogy 8 ExtraBold", false],
+    "display_sb": ["Paperlogy 7 Bold", false],
+    "body": ["Pretendard", false],
+    "body_sb": ["Pretendard SemiBold", false],
+    "body_b": ["Pretendard", true],
+    "serif": ["Pretendard", false],
+    "display_x": ["Paperlogy 9 Black", false]
+  },
+  "glow": {"core": [143, 174, 135], "deep": [40, 60, 40], "base": [30, 34, 32]}
+}

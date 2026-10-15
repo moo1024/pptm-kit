@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+projects/*/output/
+projects/*/assets/spots/raw/
+.env

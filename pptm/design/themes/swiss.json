@@ -1,0 +1,26 @@
+{
+  "_grammar": "swiss — 스위스 인터내셔널 스타일 / 브루탈리즘. 순백 지면 + 근흑 잉크 + 레드 하나. 장식 0, 그리드 헤어라인이 유일한 장식이다. 헬베티카 계열 산세리프를 최대 굵기로 초대형으로 쓰고, 숫자는 타뷸러로 그리드에 맞춰 정렬한다. 카드·그림자·그라데이션 금지 — 면과 룰(rule)만으로 위계를 만든다.",
+  "bg": "FFFFFF",
+  "ink": "0A0A0A",
+  "accent": "E4002B",
+  "on_accent": "FFFFFF",
+  "card": "FFFFFF",
+  "card2": "F2F2F2",
+  "gray": "5A5A5A",
+  "hair": "0A0A0A",
+  "arrow": "0A0A0A",
+  "highlight": "F2F2F2",
+  "body_ink": "0A0A0A",
+  "dark_bg": "0A0A0A",
+  "dark_fg": "FFFFFF",
+  "dark_sub": "8A8A8A",
+  "fonts": {
+    "display_b": ["Pretendard", true],
+    "display_sb": ["Pretendard SemiBold", false],
+    "body": ["Pretendard", false],
+    "body_sb": ["Pretendard SemiBold", false],
+    "body_b": ["Pretendard", true],
+    "serif": ["D2Coding", false]
+  },
+  "glow": {"core": [228, 0, 43], "deep": [80, 0, 15], "base": [10, 10, 10]}
+}

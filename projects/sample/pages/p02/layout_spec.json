@@ -1,0 +1,12 @@
+{"page": 2, "theme": "warm-ivory", "variant": "paper", "items": [
+  {"type": "label", "text": "현재 절차", "x": 0.07, "y": 0.08},
+  {"type": "headline", "lines": ["지원서 한 장에 세 번 손이 간다"], "x": 0.07, "y": 0.14, "w": 0.86, "size": 26},
+  {"type": "figure", "figure": "timeline", "item": "compact_card",
+   "x": 0.07, "y": 0.32, "w": 0.86, "h": 0.36,
+   "nodes": [
+     {"title": "응답 확인", "value": "40분", "caption": "구글폼을 열어 한 명씩 읽는다", "icon": "inbox"},
+     {"title": "분류", "value": "30분", "caption": "희망 팀별로 시트에 옮긴다", "icon": "folder-tree"},
+     {"title": "일정 조율", "value": "50분", "caption": "가능 시간을 단톡으로 다시 묻는다", "icon": "calendar-clock"}
+   ]},
+  {"type": "sowhat", "text": "주당 2시간 — 절반이 옮겨 적는 시간", "x": 0.07, "y": 0.885, "w": 0.86}
+]}
